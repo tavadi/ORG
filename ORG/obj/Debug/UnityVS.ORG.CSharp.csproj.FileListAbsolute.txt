@@ -14,3 +14,18 @@ F:\Program Files (x86)\Oculus\ORG\ORG\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
 F:\Program Files (x86)\Oculus\ORG\ORG\obj\Debug\UnityVS.ORG.CSharp.csprojResolveAssemblyReference.cache
 F:\Program Files (x86)\Oculus\ORG\ORG\obj\Debug\Assembly-CSharp.dll
 F:\Program Files (x86)\Oculus\ORG\ORG\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\pb_Profiler.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\ProBuilderCore-Unity5.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\ProBuilderMeshOps-Unity5.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\ProCore.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Benjamin\Desktop\ORG\ORG\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Benjamin\Desktop\ORG\ORG\obj\Debug\UnityVS.ORG.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Desktop\ORG\ORG\obj\Debug\Assembly-CSharp.dll
+C:\Users\Benjamin\Desktop\ORG\ORG\obj\Debug\Assembly-CSharp.pdb
